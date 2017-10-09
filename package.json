@@ -1,0 +1,30 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "amazon-like app utilizing node & mysql",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "console.table": "^0.9.1",
+    "inquirer": "^3.3.0",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/map88az/Bamazon.git"
+  },
+  "keywords": [
+    "mysql",
+    "node",
+    "amazon"
+  ],
+  "author": "Michael Palermo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/map88az/Bamazon/issues"
+  },
+  "homepage": "https://github.com/map88az/Bamazon#readme"
+}
